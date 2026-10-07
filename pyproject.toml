@@ -1,0 +1,10 @@
+[project]
+name = "datasetrecording"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "av>=19.0.1",
+    "depthai>=3",
+    "opencv-python>=5.0.0.93",
+    "pillow>=12.3.0",
+]
